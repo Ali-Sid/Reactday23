@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  background-color: rgb(45, 43, 43);
+  color: rgb(224, 225, 225);
+}
+
+.title-container h2 {
+  display: flex;
+  justify-content: center;
+}
